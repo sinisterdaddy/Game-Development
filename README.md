@@ -1,4 +1,4 @@
-# Game-Devlopment
+# Game-Development
 
-Cointains basic games devloped using LUA can be run using LOVE2D
+Contains basic games developed using LUA can be run using LOVE2D,
 inspired by gd50
